@@ -3,7 +3,7 @@
 Le but dans ce projet est de réaliser une plateforme de site marchand «high-tech», avec le maximum de fonc-
 tionnalités. 
 
-Les technologies utilisées : 
+Les technologies utilisées sont : 
 
 ReactJS 
 Symfony4
